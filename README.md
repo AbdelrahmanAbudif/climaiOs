@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
@@ -52,3 +53,7 @@ switch conditionID {
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+=======
+# clima
+Clima is an iOS app that offers weather information all over the globe
+>>>>>>> 64862bf2d3c51cbf30a21826eda8be5738cdfc1a
